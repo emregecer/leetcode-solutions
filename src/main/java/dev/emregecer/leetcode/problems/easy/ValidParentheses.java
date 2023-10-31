@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Stack;
 
 /**
- * <a href="https://leetcode.com/problems/valid-parentheses/description/">Valid Parentheses</a>
+ * <a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a>
  * <p>
  * Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
  *
